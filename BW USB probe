@@ -83,13 +83,22 @@
 	<div class="contain">
 		<div class="pro-box">
 			<div class="t2">
-				Rich clinical application:
+				Parameters:
 			</div>
 			<div class="t3">
 				<p>
-					<span class="type">Application to:abdomen, uterine attachment, superficial tissue and other clinical tests.</span> 
+				   	Convex probe :3.5Mhz 
 				</p>
 			</div>
+			<p>
+			      Frequency:7.5Mhz <br />
+Mode: B <br />
+Depth: 20-100mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80
+			</p>
 		</div>
 		<ul class="clearfix">
 			<li>
