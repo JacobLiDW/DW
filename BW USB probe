@@ -91,13 +91,29 @@
 				</p>
 			</div>
 			<p>
-			      Frequency:7.5Mhz <br />
+			      Frequency:3.5Mhz <br />
 Mode: B <br />
-Depth: 20-100mm <br />
+Depth: 60-240mm <br />
 SRI:1-8 <br />
 Persistence:1-4 <br />
 Gray Map:1-8 <br />
-Dynamic Range:45-80
+Dynamic Range:45-80<br />
+Applications:gynecology,urology,abdomen, emergency call and ICU
+			</p>
+			<div class="t3">
+				<p>
+				   	Linear probe :7.5Mhz 
+				</p>
+			</div>
+			<p>
+			      Frequency:7.5Mhz <br />
+Mode: B, PW <br />
+Depth: 20-70mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80<br />
+Applications:small organs neurology, biopsy guidance PICC, musculoskeletal and ICU
 			</p>
 		</div>
 		<ul class="clearfix">
