@@ -2,28 +2,31 @@
 	<div class="contain clearfix">
 		<div class="pro-box">
 			<div class="t1">
-				Color Doppler USB Probe
+				Black and White USB Probe
 			</div>
 			<div class="t2">
 				<p>
-					DW-SUC3, DW-SUC5,DW-SUC6
+					DW-SUC201, DW-SUC202,DW-SUC203,DW-SUC205
 				</p>
 			</div>
 			<div class="t3">
 				<p>
-					·DW-SUC3 3.5Mhz Convex
+					·DW-SUC201 3.5Mhz Convex
 				</p>
 				<p>
-					·DW-SUC5 7.5Mhz Linear
+					·DW-SUC202 7.5Mhz Linear
 				</p>
 				<p>
-					·DW-SUC6  10.0Mhz Linear(PICC)
+					·DW-SUC203  10.0Mhz Linear(PICC)
 				</p>
 				<p>
-					Simple, fast and precise in the critical moment
+					·DW-SUC205  3.5Mhz Convex and 7.5Mhz Linear Double Heads Probe
 				</p>
 				<p>
-					Tough, secure, and built for self-service
+					128 elements probes, produce high level image
+				</p>
+				<p>
+					Light weight, easy operation
 				</p>
 				<p>
 					Overview:
@@ -35,15 +38,12 @@
 					·Remote support system to share, read images and videos
 				</p>
 				<p>
-					·Power Doppler, a good tool for visual precision medical tools and quick first aid screening
-				</p>
-				<p>
 					·Wide application: Clinic, First Aid, Emergency, Patrol, Ward Round, Bedside, ICU, Patient Room,etc
 				</p>
 			</div>
 			<ul class="clearfix">
 				<li>
-					<img src="/Uploads/file/20180303/20180303115747_74212.png" alt="" /> 
+					<img src="/Uploads/file/20180303/20180303115747_74212.png" alt="Black and White USB Probe" /> 
 					<div class="type">
 						Independent research and development
 					</div>
@@ -75,7 +75,7 @@
 			</ul>
 		</div>
 		<div class="p1-1img">
-			<img src="/Uploads/image/20190820/20190820093715_86835.jpg" alt="" width="541" height="680" /> 
+			<img src="/Uploads/image/20190823/20190823090707_77469.jpg" alt="Black and White USB Probe" width="541" height="680" /> 
 		</div>
 	</div>
 </div>
@@ -83,20 +83,121 @@
 	<div class="contain">
 		<div class="pro-box">
 			<div class="t2">
-				Rich clinical application:
+				Parameters:
 			</div>
 			<div class="t3">
 				<p>
-					<span class="type">Application to:abdomen, uterine attachment, superficial tissue and other clinical tests.</span> 
+				   	Convex probe :3.5Mhz 
+				</p>
+			</div>
+			<p>
+			      Frequency:3.5Mhz <br />
+Mode: B <br />
+Depth: 60-240mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80<br />
+Applications:gynecology,urology,abdomen, emergency call and ICU
+			</p>
+			<div class="t3">
+				<p>
+				   	Linear probe :7.5Mhz 
+				</p>
+			</div>
+			<p>
+			      Frequency:7.5Mhz <br />
+Mode: B, PW <br />
+Depth: 20-70mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80<br />
+Applications:small organs neurology, biopsy guidance PICC, musculoskeletal and ICU
+			</p>
+			<div class="t3">
+				<p>
+				   	Linear probe :7.5Mhz 
+				</p>
+			</div>
+			<p>
+			      Frequency:7.5Mhz <br />
+Mode: B, PW <br />
+Depth: 20-70mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80<br />
+Applications:small organs neurology, biopsy guidance PICC, musculoskeletal and ICU
+			</p>
+			<div class="t3">
+				<p>
+				   	Linear probe :10Mhz 
+				</p>
+			</div>
+			<p>
+			      Frequency:10Mhz <br />
+Mode: B, PW <br />
+Depth: 20-70mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80<br />
+Applications:small organs neurology, biopsy guidance PICC, musculoskeletal</p>
+                       <div class="t3">
+				<p>
+				   	Linear probe :10Mhz 
+				</p>
+			</div>
+			<p>
+			      Frequency:10Mhz <br />
+Mode: B, PW <br />
+Depth: 20-70mm <br />
+SRI:1-8 <br />
+Persistence:1-4 <br />
+Gray Map:1-8 <br />
+Dynamic Range:45-80<br />
+Applications:small organs neurology, biopsy guidance PICC, musculoskeletal
+                        </p>
+			<div class="t3">
+				<p>
+				   	Convex and 7.5Mhz Linear Double Heads Probe
+				</p>
+			</div>
+			<p>
+			   One probe for two products, convenient for carry.<br>
+			   Improve the level of diagnosis and treatment, and realize the visualization and precision of various medical treatments
+                        </p>
+			<div class="t3">
+				<p class="type">
+					PAD, Smartphone, Puncture Frame, Printer
 				</p>
 			</div>
 		</div>
 		<ul class="clearfix">
 			<li>
-				<a href="/Uploads/file/20180323/20180323143422_96904.jpg"><img src="/Uploads/file/20180323/20180323143422_96904.jpg" /></a> 
+				<a href="/Uploads/image/20190823/20190823090845_10931.jpg"><img src="/Uploads/image/20190823/20190823090845_10931.jpg"  style="width:245px;height:185px;" /></a> 
 			</li>
 			<li>
-				<a href="/Uploads/file/20180323/20180323143443_82872.jpg"><img src="/Uploads/file/20180323/20180323143443_82872.jpg" /></a> 
+				<a href="/Uploads/image/20190823/20190823090855_18621.jpg"><img src="/Uploads/image/20190823/20190823090855_18621.jpg"  style="width:245px;height:185px;"/></a> 
+			</li>
+			<li>
+				<a href="/Uploads/image/20190823/20190823090915_92466.png"><img src="/Uploads/image/20190823/20190823090915_92466.png"  style="width:245px;height:185px;"/></a> 
+			</li>
+			<li>
+				<a href="/Uploads/image/20190823/20190823090923_71803.png"><img src="/Uploads/image/20190823/20190823090923_71803.png"  style="width:245px;height:185px;"/></a> 
+			</li>
+			<li>
+				<a href="/Uploads/image/20190823/20190823091001_44763.png"><img src="/Uploads/image/20190823/20190823091001_44763.png"  style="width:245px;height:185px;"/></a> 
+			</li>
+			<li>
+				<a href="/Uploads/image/20190823/20190823091016_89840.jpg"><img src="/Uploads/image/20190823/20190823091016_89840.jpg"  style="width:245px;height:185px;"/></a> 
+			</li>
+			<li>
+				<a href="/Uploads/image/20190823/20190823091028_99252.jpg"><img src="/Uploads/image/20190823/20190823091028_99252.jpg"  style="width:245px;height:185px;"/></a> 
+			</li>
+			<li>
+				<a href="/Uploads/image/20190823/20190823091041_99354.jpg"><img src="/Uploads/image/20190823/20190823091041_99354.jpg"  style="width:245px;height:185px;"/></a> 
 			</li>
 		</ul>
 	</div>
